@@ -10,8 +10,8 @@ This is a solution to the [Personal Portfolio Webpage project for responsive web
 
 ### Links
 
-- [View Code]()
-- [Live Preview]()
+- [View Code](https://github.com/elizerdim/personal-portfolio-webpage)
+- [Live Preview](https://elizerdim.github.io/personal-portfolio-webpage)
 
 ## My process
 
